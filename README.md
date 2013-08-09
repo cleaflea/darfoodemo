@@ -2,5 +2,5 @@
 
 - - - -
 
-** a simple launcher **
+**a simple launcher**
 
